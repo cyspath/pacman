@@ -1,7 +1,8 @@
-#pac {
+.pac {
   height: 30px;
   width: 30px;
   border-radius: 50%;
-  background: rgb(204, 204, 204);
+  background: yellow;
   position: absolute;
+  border: 1px solid #ccc;
 }
